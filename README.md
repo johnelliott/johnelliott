@@ -11,7 +11,7 @@ From 2016-2021 I worked revitalizing and rebuilding thedailybeast.com. Before me
 - 🔭 I’m currently setting up BGP routing setup on VyOS for [SCN](https://seattlecommunitynetwork.org)
 - 👯 I’m starting to think about design of a WireGuard VPN terminator for [SCN](https://seattlecommunitynetwork.org) and want to work with folks interested in networking
 - 🤔 I’m thinking about an MDNS repeater for MikroTik routers to make AirPlay and Chromecast work at home, HMU about that
-- 🌱 I’m currently learning Python 🦙
+- 🌱 I’m currently learning Python to play with ML and Home Assistant
 
 <!--
 **johnelliott/johnelliott** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
