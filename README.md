@@ -1,6 +1,6 @@
 ### README.md
 
-I like building things and connecting people 🤖🌐💥
+I like building things and connecting people
 
 I’m a software engineer in Seattle.
 
