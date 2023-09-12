@@ -1,8 +1,6 @@
 ### README.md
 
-I like building things and connecting people
-
-I’m a software engineer in Seattle.
+I’m a software engineer in Seattle. I like building things and connecting people.
 
 Since 2022 I’ve been volunteering and serving as a board member of Seattle Community Network providing underserved communities in the greater Seattle area high-quality internet access via cellular networks, unlicensed wireless, and fiber.
 
