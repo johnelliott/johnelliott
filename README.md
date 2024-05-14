@@ -1,15 +1,9 @@
 ### README.md
+I’m a software engineer in Seattle. I like building and connecting people.
 
-I’m a software engineer in Seattle. I like building things and connecting people.
+Since 2022 I’ve been volunteering and serving as a board member of Seattle Community Network providing internet access to underserved communities around Seattle.
 
-Since 2022 I’ve been volunteering and serving as a board member of Seattle Community Network providing underserved communities in the greater Seattle area high-quality internet access via cellular networks, unlicensed wireless, and fiber.
-
-From 2016-2021 I worked revitalizing and rebuilding thedailybeast.com. Before media I was an engineer at Social Tables—a 3D event planning SASS startup—following my first career as a mechanical engineer working with nuclear submarines.
-
-- 🔭 I’m currently setting up WireGuard VPN terminator for [SCN](https://seattlecommunitynetwork.org)
-- 🤔 I’m thinking about mixing OSPF networks with Wireguard segments
-- 🌱 I’m currently learning Python to play with ML and Home Assistant
-
+Find me on LinkedIn or the SCN Discord via my website.
 <!--
 **johnelliott/johnelliott** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
